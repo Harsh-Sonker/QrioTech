@@ -6,7 +6,7 @@
 [![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
 
  
-![Screenshot of Website](https://github.com/vinodjangid07/QR-Generator/assets/86096184/a9ab9933-059a-47f1-a551-0de70716514c)
+![Screenshot of Website](![image](https://github.com/user-attachments/assets/7393c78c-670c-4a71-be13-33cf13d8f461))
 
 :star: Star me on GitHub — it helps!
 

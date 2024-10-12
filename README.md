@@ -1,4 +1,4 @@
-# <a href="https://your-username.github.io/Your-Project-Name" target="_blank">Simple QR Code Generator</a>
+# <a href="[https://your-username.github.io/Your-Project-Name](https://harsh-sonker.github.io/QrioTech/)" target="_blank">Simple QR Code Generator</a>
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Harsh-Sonker)

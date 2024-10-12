@@ -1,7 +1,7 @@
 # <a href="https://your-username.github.io/Your-Project-Name" target="_blank">Simple QR Code Generator</a>
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Harsh-Sonker/Your-Repo-Name)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Harsh-Sonker)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://your-username.github.io/)
 [![Author](https://img.shields.io/badge/Author-Harsh%20Sonker-purple.svg)](https://www.linkedin.com/in/harsh-sonker-7b5633251/)
 
